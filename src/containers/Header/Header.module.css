@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.outerContainer {
+  background-color: whitesmoke;
+  margin: 1em;
+}
+
+.outerContainer h1 {
+  color: lightcoral;
+  font-family: 'Lobster';
+  text-align: center;
+  font-size: 5em;
+  padding: .3em;
+}
